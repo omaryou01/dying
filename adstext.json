@@ -1,0 +1,19 @@
+{
+  "ADS": {
+    "Interstitial_id": "ca-app-pub-8586742469355450/3909316384",
+    "Interstitial_idf": "216632443621422_216636016954398 ",
+    "Text1": "In the online menu you can choose Online Options to change your game settings from Singleplayer to Public.",
+    "Text2": "Friends Only (anyone on your Friends List), or Private (invite-only)",
+    "Text3": "You can also see a list of friends so you can send them invites to fill your session or add them to a favorites list.",
+    "Text4": "There's also a button in the online menu that lets you sign into Epic if you're playing on Steam and vice-versa.",
+    "Text5": "Clicking Quick Join will search for available sessions, and there's also a 'Call for Help' option",
+    "Text6": "This will send out a message to any friends in-game at the moment, allowing them to jump into your session and lend a hand",
+    "Text7": "Sessions go on until the host quits, at which point everyone is returned to their singleplayer game.",
+    "Text8": "Rate Us 5 Stars And Download Dying Light 2 and enjoy",
+    "banner_id": "ca-app-pub-8586742469355450/7848561390",
+    "banner_idf": "216632443621422_216634543621212 ",
+    "Nativeads_idf": "216632443621422_216636606954339 ",
+    "Nativeads_id": "ca-app-pub-8586742469355450/8970071371",
+    "networkAd": "facebook"
+  }
+}
